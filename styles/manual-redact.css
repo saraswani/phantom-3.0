@@ -259,15 +259,17 @@
   pointer-events: auto !important;
   display: flex !important;
   align-items: center !important;
-  padding: 0 6px !important;
+  justify-content: space-between !important;
+  padding: 0 4px !important;
   color: #38BDF8 !important;
   font-family: monospace !important;
-  font-size: 11px !important;
+  font-size: 10px !important;
   font-weight: bold !important;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35) !important;
   user-select: none !important;
   overflow: hidden !important;
   box-sizing: border-box !important;
+  line-height: 1 !important;
 }
 
 /* ==========================================================================
